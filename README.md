@@ -1,3 +1,2 @@
 # Data-Manager
-Easily Store And Retrieve Data With This Manager
-
+Easily store and retrieve data with this manager
